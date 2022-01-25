@@ -6,4 +6,4 @@ $ python preprocess.py
 
 2. training and testing
 
-$ 
+$ ./main.sh
